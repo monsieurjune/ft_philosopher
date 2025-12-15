@@ -1,0 +1,44 @@
+# Executable files
+/**/*.exe
+/**/*.out
+/**/*.app
+/**/*.elf
+
+# Libraries
+/**/*.a
+/**/*.so
+/**/*.dylib
+/**/*.lib
+/**/*.dll
+
+# Debug files
+/**/*.dSYM/
+/**/*.core
+/**/*.pdb
+/**/*.idb
+
+# Object & Dependency files
+/**/*.o
+/**/*.d
+
+# Logs and temporary files
+/**/*.log
+/**/*.tmp
+/**/*.swp
+/**/*.swo
+/**/*.bak
+/**/*.old
+/**/*.orig
+
+# IDE and editor files
+/**/.DS_Store
+/**/.vscode/
+/**/*.code-workspace
+/**/*.idea/
+/**/*.sublime-workspace
+/**/*.sublime-project
+/**/*.user
+/**/*.project
+/**/*.classpath
+/**/*.cproject
+/**/*.launch
